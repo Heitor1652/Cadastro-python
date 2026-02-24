@@ -7,7 +7,7 @@ Criado para treinar lógica de programação.
 
 # Como usar:
 
-Execute o arquivo no terminal ou no Acode:
+Execute o arquivo no terminal ou no seu editor:
 
 python cadastro.py
 
