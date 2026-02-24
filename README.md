@@ -20,11 +20,11 @@ python cadastro.py
 - Sair do sistema
 
 
-# Tecnologias:
+# Tecnologias: 
 
 - Python 3
 
 
-# Autor:
+# Autor: 
 
 Heitor José Ferraz
